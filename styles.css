@@ -1,11 +1,11 @@
 body {
 	background: black;
-	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	font-family: "Indie Flower", cursive;
 }
 
 .postcard {
 	background: white;
-	width: 400px;
+	width: 450px;
 	height: 300px;
 	margin: auto;
 }
@@ -34,6 +34,11 @@ body {
 .body-right {
 	padding: 10px;
 }
+
+.input-txt {
+	font-family: "Indie Flower", cursive;
+}
+
 input {
 	border: none;
 	border-bottom: grey solid;
@@ -46,4 +51,5 @@ button {
 	background-color: grey;
 	padding: 5px 10px;
 	border: none;
+	font-family: "Indie Flower", cursive;
 }
