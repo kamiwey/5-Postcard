@@ -8,6 +8,7 @@ body {
 	width: 450px;
 	height: 300px;
 	margin: auto;
+	margin-top: 300px;
 }
 .postcard-header {
 	display: flex;
